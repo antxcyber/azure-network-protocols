@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/2cb238ff-4e46-4a75-8967-7ef5d124ab74" height="15%" width="15%" alt="Microsoft Azure logo"/>
+<img width="100" alt="Screenshot 2023-12-03 at 6 32 33 PM" src="https://github.com/antxcyber/azure-network-protocols/assets/148983947/d1b92d2d-52dd-4036-bd01-72145fb4449f" height="100" width="15%" />
+
 </p>
 
 <h1 align = "center">Virtual Machine Network in Microsoft Azure</h1>
